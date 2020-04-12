@@ -28,3 +28,8 @@ body {
 .jumbotron {
     text-align-last: center;
 }
+
+/*--- logo in nav bar ---*/
+#logo-icon {
+  max-height: 40px;
+}
