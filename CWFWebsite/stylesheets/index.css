@@ -1,0 +1,30 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: #EDE3C7;
+  }
+
+  /*--- navigation bar ---*/
+  .navbar {
+    background:#633729;
+  }
+  .nav-link,
+  .navbar-brand {
+    color: #fff;
+    cursor: pointer;
+  }
+  .nav-link {
+    margin-right: 1em !important;
+  }
+  .nav-link:hover,
+  .navbar-brand:hover {
+    color: #000;
+  }
+  .navbar-collapse {
+    justify-content: flex-end;
+  }
+
+/*--- Jumbotron ---*/
+.jumbotron {
+    text-align-last: center;
+}
